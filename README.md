@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 YouTube Message - 24 June 2025 - Watch Video
 <div>
-    <a href="https://youtu.be/tIGpKq7_un0"> 
+    <a href="https://youtu.be/7JKGYAQpppE">
       <p>YouTube Message - 24 June 2025 - Watch Video</p>
     </a>
-    <a href="https://youtu.be/tIGpKq7_un0">
+    <a href="https://youtu.be/7JKGYAQpppE">
       <img style="max-width:300px;" src="ios101-project3-Trivia-My-Walkthrough.gif">
     </a>
   </div>
