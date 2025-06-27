@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-YouTube Message - 24 June 2025 - Watch Video
 <div>
     <a href="https://youtu.be/7JKGYAQpppE">
       <p>YouTube Message - 24 June 2025 - Watch Video</p>
