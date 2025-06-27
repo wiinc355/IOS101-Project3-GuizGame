@@ -33,7 +33,7 @@ YouTube Message - 24 June 2025 - Watch Video
       <p>YouTube Message - 24 June 2025 - Watch Video</p>
     </a>
     <a href="https://youtu.be/7JKGYAQpppE">
-      <img style="max-width:300px;" src="ios101-project3-Trivia-My-Walkthrough.gif">
+      <img style="max-width:300px;" src="https://submissions.us-east-1.linodeobjects.com/ios101/e_dOLyue.gif">
     </a>
   </div>
 
